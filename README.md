@@ -69,16 +69,6 @@ This architecture allows for clear data separation, easier maintenance, and scal
 
 ---
 
-## 🙏 Acknowledgment
-A huge thank you to **Sir Ayan Hussain** for his guidance and valuable feedback throughout this project.
-
----
-
-## 🔗 Repository
-You can explore the complete implementation here:  
-[GitHub Repository – Sparkify Data Warehouse](https://github.com/mohdasjal1/sparkify-data-warehouse)
-
----
 
 ## 🏷️ Tags
 `#DataEngineering` `#Snowflake` `#AWS` `#ETL` `#SQL` `#CloudDataWarehouse` `#Analytics`
